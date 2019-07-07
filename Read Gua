@@ -1,0 +1,9 @@
+Cara melakukan deface tebas index untuk pemula mengunakan termux atau terminal linux
+$ apt update && apt upgrade
+$ pkg install git
+$ pkg install openssh
+$ pkg install curl
+$ git clone https://github.com/Mr-R0N1Z/deface
+$ cd deface
+$ sh deface.sh
+Note: Jangan lupa taruh script deface di luar penyimpanan
