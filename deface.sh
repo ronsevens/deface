@@ -58,8 +58,10 @@ if [ $apaan = "B" ] || [ $apaan = "b" ]
 then
 echo
 echo $ku "Live Target"
-echo $pu "http://contsol.co.za"
-echo $me "http://bitsandpieces.co.za
+echo    
+echo $me
+echo "http://contsol.co.za
+http://bitsandpieces.co.za
 http://windmillsandporcupines.co.za
 http://scnc.co.za
 http://contsol.co.za
